@@ -1,2 +1,0 @@
-# platinum-org-test
-c
